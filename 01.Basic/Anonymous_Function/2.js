@@ -1,5 +1,5 @@
 (function () {
     /*
-        doSomething
+        do something
     */
 }());

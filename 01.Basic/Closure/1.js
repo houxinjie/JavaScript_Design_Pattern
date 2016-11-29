@@ -1,5 +1,5 @@
 function init() {
-    var name = "Mozilla";
+    var name = "JavaScript";
     function displayName() {
         alert(name);
     }
